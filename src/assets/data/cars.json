@@ -1,0 +1,8 @@
+[
+    {"id":1 , "name":"Mustang" , "brand":"Ford" , "model":"GT" ,"cost":8000000},
+    {"id":2 ,"name":"Range Rover" ,"brand":"Land Rover" , "model":"Evoque" ,"cost":13000000},
+    {"id":3 ,"name":"Swift" ,"brand":"Maruthi Suzuki" , "model":"ZDI" ,"cost":800000},
+    {"id":4 ,"name":"Demon" ,"brand":"Dodge" , "model":"Hell Cat" ,"cost":15000000},
+    {"id":5 ,"name":"Audi Q5" ,"brand":"Audi" , "model":"AMG" ,"cost":5000000}
+  
+]

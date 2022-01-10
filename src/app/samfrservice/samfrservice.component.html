@@ -1,0 +1,37 @@
+<p>samfrservice works!</p>
+<h2>Cars from Json file</h2>
+<table class = "table table-stripped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Cost</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="bg-success" *ngFor ="let car of cars">
+            <td>{{car.id}}</td>
+            <td>{{car.name}}</td>
+            <td>{{car.brand}}</td>
+            <td>{{car.model}}</td>
+            <td>{{car.cost}}</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+<!--
+<div>
+    <ul *ngFor="let car of cars">
+        <li>{{cars}}</li>
+    </ul>
+    
+</div>
+
+-->
